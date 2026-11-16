@@ -1,0 +1,7 @@
+# Written by the Herdr app into every mod folder
+gpui-kit.d.ts
+jsconfig.json
+*.error
+# Local settings
+config.json
+.DS_Store
