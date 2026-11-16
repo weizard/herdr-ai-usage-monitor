@@ -3,16 +3,7 @@
 A Herdr mod that shows how much of your Claude Code and Codex
 rate-limit windows (5h / 7d) you have used, in a popup summoned by a key.
 
-```
-Agent usage                                          Esc
-Claude Code · opus
-  5h  ██████████░░░░░░░░░░░    49%   ↺ 1h 55m
-  7d  ██████░░░░░░░░░░░░░░░    29%   ↺ 2d 6h
-Codex · gpt-6-astra (high)
-  5h  ███████████████░░░░░░    75%   ↺ 3h 5m
-  7d  ██░░░░░░░░░░░░░░░░░░░    12%   ↺ 6d 22h
-Esc / q close   ·   r refresh   ·   every 5s
-```
+![The usage popup in Herdr](docs/popup.png)
 
 The numbers come from the reader of
 [ghostty-agent-usage-dashboard](https://github.com/weizard/ghostty-agent-usage-dashboard)
